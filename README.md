@@ -10,4 +10,4 @@ The data pack follows the folder structure shown on https://minecraft.wiki/w/Dat
 
 - pack.mcmeta: specifies minecraft version compatibility as well as the data pack description
 - data/stopwatch/function: where functions are defined
-- data/stopwatch/tags: determines when functions are ran
+- data/minecraft/tags: determines when functions are ran
